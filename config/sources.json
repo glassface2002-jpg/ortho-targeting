@@ -1,0 +1,127 @@
+{
+  "resolved_at": "2026-11-05T17:18:37",
+  "files": {
+    "op_gnrl_2021": {
+      "dataset": "2021 General Payment Data",
+      "program_year": 2021,
+      "catalog": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items",
+      "modified": "2026-06-30",
+      "url": "https://download.cms.gov/openpayments/PGYR2021_P06302026_06032026.zip",
+      "csv_url": "https://download.cms.gov/openpayments/PGYR2021_P06302026_06032026/OP_DTL_GNRL_PGYR2021_P06302026_06032026.csv",
+      "zip_member": "OP_DTL_GNRL_PGYR2021_P06302026_06032026.csv",
+      "kind": "zip"
+    },
+    "op_gnrl_2022": {
+      "dataset": "2022 General Payment Data",
+      "program_year": 2022,
+      "catalog": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items",
+      "modified": "2026-06-30",
+      "url": "https://download.cms.gov/openpayments/PGYR2022_P06302026_06032026.zip",
+      "csv_url": "https://download.cms.gov/openpayments/PGYR2022_P06302026_06032026/OP_DTL_GNRL_PGYR2022_P06302026_06032026.csv",
+      "zip_member": "OP_DTL_GNRL_PGYR2022_P06302026_06032026.csv",
+      "kind": "zip"
+    },
+    "op_gnrl_2023": {
+      "dataset": "2023 General Payment Data",
+      "program_year": 2023,
+      "catalog": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items",
+      "modified": "2026-06-30",
+      "url": "https://download.cms.gov/openpayments/PGYR2023_P06302026_06032026.zip",
+      "csv_url": "https://download.cms.gov/openpayments/PGYR2023_P06302026_06032026/OP_DTL_GNRL_PGYR2023_P06302026_06032026.csv",
+      "zip_member": "OP_DTL_GNRL_PGYR2023_P06302026_06032026.csv",
+      "kind": "zip"
+    },
+    "op_gnrl_2024": {
+      "dataset": "2024 General Payment Data",
+      "program_year": 2024,
+      "catalog": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items",
+      "modified": "2026-06-30",
+      "url": "https://download.cms.gov/openpayments/PGYR2024_P06302026_06032026.zip",
+      "csv_url": "https://download.cms.gov/openpayments/PGYR2024_P06302026_06032026/OP_DTL_GNRL_PGYR2024_P06302026_06032026.csv",
+      "zip_member": "OP_DTL_GNRL_PGYR2024_P06302026_06032026.csv",
+      "kind": "zip"
+    },
+    "op_gnrl_2025": {
+      "dataset": "2025 General Payment Data",
+      "program_year": 2025,
+      "catalog": "https://openpaymentsdata.cms.gov/api/1/metastore/schemas/dataset/items",
+      "modified": "2026-06-30",
+      "url": "https://download.cms.gov/openpayments/PGYR2025_P06302026_06032026.zip",
+      "csv_url": "https://download.cms.gov/openpayments/PGYR2025_P06302026_06032026/OP_DTL_GNRL_PGYR2025_P06302026_06032026.csv",
+      "zip_member": "OP_DTL_GNRL_PGYR2025_P06302026_06032026.csv",
+      "kind": "zip"
+    },
+    "pdc_clinicians": {
+      "dataset": "National Downloadable File",
+      "dataset_id": "mj5m-pzi6",
+      "catalog": "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/mj5m-pzi6",
+      "kind": "csv",
+      "modified": "2026-10-02",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/52c3f098d7e56028a298fd297cb0b38d_1790972133/DAC_NationalDownloadableFile.csv"
+    },
+    "pdc_facility_affil": {
+      "dataset": "Facility Affiliation Data",
+      "dataset_id": "27ea-46a8",
+      "catalog": "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/27ea-46a8",
+      "kind": "csv",
+      "modified": "2026-10-02",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b7c4080ae144663e43353a9c35cd3f53_1790972135/Facility_Affiliation.csv"
+    },
+    "pdc_hospital_info": {
+      "dataset": "Hospital General Information",
+      "dataset_id": "xubh-q36u",
+      "catalog": "https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items/xubh-q36u",
+      "kind": "csv",
+      "modified": "2026-07-22",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv"
+    },
+    "phys_prov_2024": {
+      "dataset": "Medicare Physician & Other Practitioners - by Provider",
+      "release": "Medicare Physician & Other Practitioners - by Provider : 2024-12-01",
+      "data_year": 2024,
+      "catalog": "https://data.cms.gov/data.json",
+      "url": "https://data.cms.gov/sites/default/files/2026-05/7323ba02-52e7-4a86-b2ce-ad210c25d9aa/MUP_PHY_R26_P05_V10_D24_Prov.csv",
+      "kind": "csv"
+    },
+    "phys_svc_2020": {
+      "dataset": "Medicare Physician & Other Practitioners - by Provider and Service",
+      "release": "Medicare Physician & Other Practitioners - by Provider and Service : 2020-12-02",
+      "data_year": 2020,
+      "catalog": "https://data.cms.gov/data.json",
+      "url": "https://data.cms.gov/sites/default/files/2025-11/d22b18cd-7726-4bf5-8e9c-3e4587c589a1/MUP_PHY_R25_P05_V20_D20_Prov_Svc.csv",
+      "kind": "csv"
+    },
+    "phys_svc_2021": {
+      "dataset": "Medicare Physician & Other Practitioners - by Provider and Service",
+      "release": "Medicare Physician & Other Practitioners - by Provider and Service : 2021-12-02",
+      "data_year": 2021,
+      "catalog": "https://data.cms.gov/data.json",
+      "url": "https://data.cms.gov/sites/default/files/2025-11/bffaf97a-c2ab-4fd7-8718-be90742e3485/MUP_PHY_R25_P05_V20_D21_Prov_Svc.csv",
+      "kind": "csv"
+    },
+    "phys_svc_2022": {
+      "dataset": "Medicare Physician & Other Practitioners - by Provider and Service",
+      "release": "Medicare Physician & Other Practitioners - by Provider and Service : 2022-12-02",
+      "data_year": 2022,
+      "catalog": "https://data.cms.gov/data.json",
+      "url": "https://data.cms.gov/sites/default/files/2025-11/53fb2bae-4913-48dc-a6d4-d8c025906567/MUP_PHY_R25_P05_V20_D22_Prov_Svc.csv",
+      "kind": "csv"
+    },
+    "phys_svc_2023": {
+      "dataset": "Medicare Physician & Other Practitioners - by Provider and Service",
+      "release": "Medicare Physician & Other Practitioners - by Provider and Service : 2023-12-31",
+      "data_year": 2023,
+      "catalog": "https://data.cms.gov/data.json",
+      "url": "https://data.cms.gov/sites/default/files/2025-04/e3f823f8-db5b-4cc7-ba04-e7ae92b99757/MUP_PHY_R25_P05_V20_D23_Prov_Svc.csv",
+      "kind": "csv"
+    },
+    "phys_svc_2024": {
+      "dataset": "Medicare Physician & Other Practitioners - by Provider and Service",
+      "release": "Medicare Physician & Other Practitioners - by Provider and Service : 2024-12-01",
+      "data_year": 2024,
+      "catalog": "https://data.cms.gov/data.json",
+      "url": "https://data.cms.gov/sites/default/files/2026-05/b5ebab5a-f490-418a-9bce-4b9f31419356/PHY_R26_P05_V10_D24_Prov_Svc.csv",
+      "kind": "csv"
+    }
+  }
+}
