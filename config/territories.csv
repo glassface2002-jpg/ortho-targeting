@@ -1,0 +1,67 @@
+state,zip3,territory,rep_name
+AZ,850,Phoenix Metro,Jordan Lee
+AZ,851,Phoenix Metro,Jordan Lee
+AZ,852,Phoenix Metro,Jordan Lee
+AZ,853,Phoenix Metro,Jordan Lee
+AZ,855,Tucson and Southern Arizona,Maria Torres
+AZ,856,Tucson and Southern Arizona,Maria Torres
+AZ,857,Tucson and Southern Arizona,Maria Torres
+AZ,859,Northern Arizona,Sam Patel
+AZ,860,Northern Arizona,Sam Patel
+AZ,863,Northern Arizona,Sam Patel
+AZ,864,Northern Arizona,Sam Patel
+AZ,865,Northern Arizona,Sam Patel
+AZ,,Arizona Other,Sam Patel
+CT,,New England,Chris Nguyen
+ME,,New England,Chris Nguyen
+MA,,New England,Chris Nguyen
+NH,,New England,Chris Nguyen
+RI,,New England,Chris Nguyen
+VT,,New England,Chris Nguyen
+NJ,,Mid-Atlantic,Taylor Brooks
+NY,,Mid-Atlantic,Taylor Brooks
+PA,,Mid-Atlantic,Taylor Brooks
+IL,,East North Central,Morgan Reed
+IN,,East North Central,Morgan Reed
+MI,,East North Central,Morgan Reed
+OH,,East North Central,Morgan Reed
+WI,,East North Central,Morgan Reed
+IA,,West North Central,Casey Kim
+KS,,West North Central,Casey Kim
+MN,,West North Central,Casey Kim
+MO,,West North Central,Casey Kim
+NE,,West North Central,Casey Kim
+ND,,West North Central,Casey Kim
+SD,,West North Central,Casey Kim
+DE,,South Atlantic,Riley Johnson
+DC,,South Atlantic,Riley Johnson
+FL,,South Atlantic,Riley Johnson
+GA,,South Atlantic,Riley Johnson
+MD,,South Atlantic,Riley Johnson
+NC,,South Atlantic,Riley Johnson
+SC,,South Atlantic,Riley Johnson
+VA,,South Atlantic,Riley Johnson
+WV,,South Atlantic,Riley Johnson
+AL,,East South Central,Avery Davis
+KY,,East South Central,Avery Davis
+MS,,East South Central,Avery Davis
+TN,,East South Central,Avery Davis
+AR,,West South Central,Jamie Carter
+LA,,West South Central,Jamie Carter
+OK,,West South Central,Jamie Carter
+TX,,West South Central,Jamie Carter
+CO,,Mountain,Drew Morgan
+ID,,Mountain,Drew Morgan
+MT,,Mountain,Drew Morgan
+NV,,Mountain,Drew Morgan
+NM,,Mountain,Drew Morgan
+UT,,Mountain,Drew Morgan
+WY,,Mountain,Drew Morgan
+AK,,Pacific,Quinn Harris
+CA,,Pacific,Quinn Harris
+HI,,Pacific,Quinn Harris
+OR,,Pacific,Quinn Harris
+WA,,Pacific,Quinn Harris
+PR,,US Territories,Blake Turner
+GU,,US Territories,Blake Turner
+VI,,US Territories,Blake Turner
