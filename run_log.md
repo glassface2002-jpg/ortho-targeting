@@ -50,3 +50,20 @@ DuckDB 2.0.0, run on this laptop. Views created by sql/02_views.sql.
 
 Rows per year, medicare_provider_services: 2020 9.45M · 2021 9.89M · 2022 9.76M · 2023 9.66M · 2024 9.78M
 Rows per program year, open_payments_general: 2021 11.56M · 2022 13.32M · 2023 14.73M · 2024 15.50M · 2025 16.13M
+
+## Phases 3–8: build the target list (2026-11-12)
+
+`python export.py` runs sql/03 to sql/08 in order.
+
+| Step | Output | Rows | Run time |
+|---|---|---|---|
+| 03_clean.sql | ortho_procs, openpay_clean, clinician_locations, surgeon_hospitals | 56,325 · 71,013,191 · 3,630,233 · 1,933,611 | 31.0 s |
+| 04_universe.sql | target_universe | 5,563 surgeons | 0.1 s |
+| 05_enrich.sql | target_enriched | 5,563 | 1.8 s |
+| 06_score.sql | scored_final | 5,563 | 1.8 s |
+| 07_briefs.sql | rep_briefs | 5,563 | 0.0 s |
+| 08_export.sql | 5 CSVs in data/exports | 154,926 total | 0.3 s |
+| **Total** | | | **36.2 s** |
+
+Match rates (5,563 surgeons): practice 94.4% · phone 92.3% · hospital 96.1% · industry payments 97.8%
+Sensitivity test: 96 of the top 100 stay in the top 100 with volume weight 0.50
